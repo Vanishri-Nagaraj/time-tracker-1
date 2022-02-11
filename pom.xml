@@ -22,7 +22,12 @@
         <module>core</module>
         <module>web</module>
     </modules>
-
+         
+<dependency> 
+         <groupId>com.apple</groupId>  
+         <artifactId>AppleJavaExtensions</artifactId>    
+         <version>1.4</version> 
+ </dependency>
 
     <build>
         <pluginManagement>
